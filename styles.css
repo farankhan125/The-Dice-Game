@@ -1,0 +1,145 @@
+body {
+    background-color: #424242;
+    color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 90px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 35px;
+}
+
+.dicee1,
+.dicee2 {
+    width: 160px;
+}
+
+.p1 {
+    float: left;
+    margin: 0 0 0 416px;
+}
+
+.p2 {
+    float: left;
+    margin: 0 0 146px 200px;
+}
+
+.footer {
+    clear: both;
+}
+
+.h4_1 {
+    font-family: 'Amatic SC', cursive;
+    margin: 0 0 0 568px;
+    line-height: 2;
+}
+
+.h4_2 {
+    font-family: 'Amatic SC', cursive;
+    margin: 0 0 0 645px;
+    line-height: 2;
+}
+
+span {
+    visibility: hidden;
+}
+
+.copyright {
+    width: 13px;
+}
+
+/*--------------------------------------Header Winner CSS --------------------------------- */
+
+.header2 {
+    display: none;
+}
+
+.header3 {
+    display: none;
+}
+
+.header4 {
+    display: none;
+}
+
+.h1_size {
+    font-size: 55px;
+    margin-bottom: 85px;
+}
+
+/*-------------------------------------- Winner CSS -------------------------------------- */
+
+#main_div {
+    position: relative;
+}
+
+h3 {
+    font-family: 'Amatic SC', cursive;
+    display: inline-block;
+    font-size: 60px;
+}
+
+.div_winner1 {
+    position: absolute;
+    top: 42px;
+    left: 70px;
+    visibility: hidden;
+}
+
+.winner1Img {
+    width: 50px;
+    margin-left: 18px;
+    display: inline-block;
+}
+
+.div_winner2 {
+    position: absolute;
+    top: 42px;
+    right: 70px;
+    visibility: hidden;
+}
+
+.winner2Img {
+    width: 50px;
+    margin-right: 18px;
+    display: inline-block;
+}
+
+.draw {
+    position: absolute;
+    top: 84px;
+    left: 638px;
+    visibility: hidden;
+}
+
+/*------------------------------ Buttons CSS ---------------------------------*/
+
+.div_btn {
+    position: absolute;
+    top: 513px;
+    left: 527px;
+}
+
+button {
+    padding: 3px 38px;
+    background-color: #af0909;
+    border: solid #af0909;
+    color: whitesmoke;
+    cursor: pointer;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
