@@ -50,6 +50,9 @@ That's it! 🎉 No build tools or dependencies required.
 
 ## 📸 Demo Preview
 
+![Image1](Images/img1.JPG)
+![Image2](Images/img2.JPG)
+
 ---
 
 ## 🧑‍💻 Contributing
