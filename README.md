@@ -17,7 +17,6 @@
 ## 🌐 Directly Visit Website
 
 Ready to roll the dice? Check out the live version here:
-https://farankhan125.github.io/The-Dice-Game/
 
 [The Dice Game](https://farankhan125.github.io/The-Dice-Game/)
 
