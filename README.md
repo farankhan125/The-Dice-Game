@@ -70,9 +70,9 @@ Got ideas to improve the design or add animations? Feel free to fork and contrib
 
 Click Here: [The Dice Game](https://github.com/farankhan125/The-Dice-Game)
 
-2. **Clone your forked repository**
+2. **Clone your forked repository (replace your username with yourUsername in the command below)**
 ```bash
-git clone https://github.com/farankhan125/The-Dice-Game.git
+git clone https://github.com/yourUsername/The-Dice-Game.git
 ```
 3. **Navigate into the project folder**
 ```bash
@@ -86,15 +86,19 @@ code -a .
 ```bash
 git checkout -b feature/your-new-feature-name-here
 ```
-6. **Make your changes and commit**
+6. **Stage the changes**
+```bash
+git add .
+```
+7. **Make your changes and commit**
 ```bash
 git commit -m "Improve dice UI or add animation"
 ```
-7. **Push to the branch**
+8. **Push to the branch**
 ```bash
 git push origin feature/your-new-feature-name-here
 ```
-8. **Open a Pull Request**  
+9. **Open a Pull Request**  
 
 Go to your fork on GitHub, and you'll see a prompt to "Compare & pull request" — click that and submit your PR!
 
