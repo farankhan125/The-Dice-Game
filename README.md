@@ -78,19 +78,23 @@ git clone https://github.com/farankhan125/The-Dice-Game.git
 ```bash
 cd The Dice Game
 ```
-4. **Create your feature branch**
+4. **Open the folder in your IDE**
+```bash
+code -a .
+```
+5. **Create your feature branch**
 ```bash
 git checkout -b feature/your-new-feature-name-here
 ```
-5. **Make your changes and commit**
+6. **Make your changes and commit**
 ```bash
 git commit -m "Improve dice UI or add animation"
 ```
-6. **Push to the branch**
+7. **Push to the branch**
 ```bash
 git push origin feature/your-new-feature-name-here
 ```
-7. **Open a Pull Request**  
+8. **Open a Pull Request**  
 
 Go to your fork on GitHub, and you'll see a prompt to "Compare & pull request" — click that and submit your PR!
 
