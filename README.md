@@ -44,7 +44,7 @@ cd The-Dice-Game
 ```
 3. **Open the folder in your IDE**
 ```bash
-code .
+code -a .
 ```
 4. **Open index.html in your browser**
 
