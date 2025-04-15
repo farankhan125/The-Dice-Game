@@ -67,6 +67,7 @@ That's it! 🎉 No build tools or dependencies required.
 Got ideas to improve the design or add animations? Feel free to fork and contribute!
 
 1. **Fork the project**  
+Forking the repository is the first step to make a copy of the project under your account.
 
 Click Here: [The Dice Game](https://github.com/farankhan125/The-Dice-Game)
 
