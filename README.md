@@ -67,13 +67,14 @@ That's it! 🎉 No build tools or dependencies required.
 Got ideas to improve the design or add animations? Feel free to fork and contribute!
 
 1. **Fork the project**  
-Forking the repository is the first step to make a copy of the project under your account.
 
-Click Here: [The Dice Game](https://github.com/farankhan125/The-Dice-Game)
+Forking the repository is the first step to make a copy of the project under your account. Click Here: [The Dice Game](https://github.com/farankhan125/The-Dice-Game)
 
-2. **Clone your forked repository (replace your username with yourUsername in the command below)**
+2. **Clone your forked repository**
+
+Make sure to replace (your-username) with your actual GitHub username, so it correctly points to your forked version.
 ```bash
-git clone https://github.com/yourUsername/The-Dice-Game.git
+git clone https://github.com/your-username/The-Dice-Game.git
 ```
 3. **Navigate into the project folder**
 ```bash
@@ -84,6 +85,8 @@ cd The Dice Game
 code -a .
 ```
 5. **Create your feature branch**
+
+To make the feature name meaningful, replace your feature name with (your-new-feature-name-here) with a description of what the feature does.
 ```bash
 git checkout -b feature/your-new-feature-name-here
 ```
@@ -92,10 +95,14 @@ git checkout -b feature/your-new-feature-name-here
 git add .
 ```
 7. **Make your changes and commit**
+
+Replace your commit message with (your-commit-message). The commit message should be meaningful and describe the change you made.
 ```bash
-git commit -m "Improve dice UI or add animation"
+git commit -m "your-commit-message"
 ```
 8. **Push to the branch**
+
+Again, replace your feature name with (your-new-feature-name-here)
 ```bash
 git push origin feature/your-new-feature-name-here
 ```
