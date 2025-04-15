@@ -108,7 +108,7 @@ git push origin feature/your-new-feature-name-here
 ```
 9. **Open a Pull Request**  
 
-Go to your fork on GitHub, and you'll see a prompt to "Compare & pull request" — click that and submit your PR!
+Now you can go to GitHub, where you'll see an option to "Compare & pull request." Make sure to give a clear description of what your changes do in the PR.
 
 ---
 
