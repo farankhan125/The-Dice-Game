@@ -42,7 +42,11 @@ git clone https://github.com/farankhan125/The-Dice-Game.git
 ```bash
 cd The-Dice-Game
 ```
-3. **Open index.html in your browser**
+3. **Open the folder in your IDE**
+```bash
+code .
+```
+4. **Open index.html in your browser**
 
 That's it! 🎉 No build tools or dependencies required.
 
