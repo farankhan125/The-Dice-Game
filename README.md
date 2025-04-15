@@ -47,6 +47,9 @@ cd The-Dice-Game
 code -a .
 ```
 4. **Open index.html in your browser**
+```bash
+start index.html
+```
 
 That's it! 🎉 No build tools or dependencies required.
 
